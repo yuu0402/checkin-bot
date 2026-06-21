@@ -1,0 +1,7 @@
+﻿# Secrets
+checkin_config.json
+tg_token.txt
+.next_checkin
+*.log
+__pycache__/
+*.pyc

@@ -1,0 +1,11 @@
+﻿{
+  "sites": [
+    {
+      "name": "Example",
+      "url": "https://example.com",
+      "type": "new_api",
+      "login": {"username": "your_username", "password": "your_password"},
+      "api_key": "sk-your-api-key-here"
+    }
+  ]
+}
